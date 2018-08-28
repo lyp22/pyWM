@@ -1,13 +1,13 @@
-###WaterMark for Python
+#WaterMark for Python
 
-##pyWM
+#pyWM
 
 A lightweight python image watermark library that supports encrypted watermarks.
 
-##Update Announcement
+#Update Announcement
 
 version|content
 --------|--------
 1.0.0|package simply, and it must rely on PIL. We will improve following. 
 
-###The version 1.1.0 is on the way.
+#The version 1.1.0 is on the way.
